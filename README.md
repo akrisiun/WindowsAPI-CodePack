@@ -1,24 +1,6 @@
 Windows-API-Code-Pack-1.1
 =========================
 
-README
-======
-
-NuGet packages (recommended)
-----------------------------
-
-https://www.nuget.org/packages/WindowsAPICodePack-Core/
-
-https://www.nuget.org/packages/WindowsAPICodePack-Shell/
-
-https://www.nuget.org/packages/WindowsAPICodePack-ShellExtensions/
-
-https://www.nuget.org/packages/WindowsAPICodePack-DirectX/
-
-https://www.nuget.org/packages/WindowsAPICodePack-ExtendedLinguisticServices/
-
-https://www.nuget.org/packages/WindowsAPICodePack-Sensors/
-
 Licence
 -------
 
