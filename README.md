@@ -1,6 +1,11 @@
 Windows-API-Code-Pack-1.1
 =========================
 
+Usage:
+```
+git submodule add https://github.com/akrisiun/WindowsAPI-CodePack.git src/WindowsAPI-CodePack
+```
+
 Licence
 -------
 
